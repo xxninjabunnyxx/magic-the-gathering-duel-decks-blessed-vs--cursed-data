@@ -1,0 +1,112 @@
+---
+object: card
+id: 3304c2bc-2d05-497d-b92a-3de21a9d6b45
+oracle_id: 10e19453-84fb-4845-8db0-c9da52847e09
+multiverse_ids:
+- 409606
+tcgplayer_id: 113343
+cardmarket_id: 288593
+name: Tower Geist
+lang: en
+released_at: '2016-02-26'
+uri: https://api.scryfall.com/cards/3304c2bc-2d05-497d-b92a-3de21a9d6b45
+scryfall_uri: https://scryfall.com/card/ddq/30/tower-geist?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/3/3304c2bc-2d05-497d-b92a-3de21a9d6b45.jpg?1592762885
+  normal: https://cards.scryfall.io/normal/front/3/3/3304c2bc-2d05-497d-b92a-3de21a9d6b45.jpg?1592762885
+  large: https://cards.scryfall.io/large/front/3/3/3304c2bc-2d05-497d-b92a-3de21a9d6b45.jpg?1592762885
+  png: https://cards.scryfall.io/png/front/3/3/3304c2bc-2d05-497d-b92a-3de21a9d6b45.png?1592762885
+  art_crop: https://cards.scryfall.io/art_crop/front/3/3/3304c2bc-2d05-497d-b92a-3de21a9d6b45.jpg?1592762885
+  border_crop: https://cards.scryfall.io/border_crop/front/3/3/3304c2bc-2d05-497d-b92a-3de21a9d6b45.jpg?1592762885
+mana_cost: "{3}{U}"
+cmc: 4.0
+type_line: Creature — Spirit
+oracle_text: |-
+  Flying
+  When Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
+power: '2'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 9f6e1af2-3913-47d6-aa6a-81f34ec7224c
+set: ddq
+set_name: 'Duel Decks: Blessed vs. Cursed'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/9f6e1af2-3913-47d6-aa6a-81f34ec7224c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addq&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddq?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3304c2bc-2d05-497d-b92a-3de21a9d6b45/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A10e19453-84fb-4845-8db0-c9da52847e09&unique=prints
+collector_number: '30'
+digital: false
+rarity: uncommon
+flavor_text: Jenrik's tower is served by those who once sought to enter it uninvited.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Izzy
+artist_ids:
+- 2c3d2473-ff5d-4309-8194-e0b2def2ab65
+illustration_id: 69d5d95d-0baf-4636-95c0-3a3ee524c0f1
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 18667
+penny_rank: 10930
+prices:
+  usd: '0.09'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.03'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409606
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tower+Geist&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tower+Geist&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Tower+Geist
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/113343?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tower+Geist&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tower+Geist&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

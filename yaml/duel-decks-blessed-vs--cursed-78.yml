@@ -1,0 +1,292 @@
+---
+object: card
+id: 15a620da-5056-4582-8da5-2c955c3f4c0d
+oracle_id: 30272edf-097c-4918-84d2-9fa6c42dbe0a
+multiverse_ids:
+- 409654
+tcgplayer_id: 113337
+name: Human
+lang: en
+released_at: '2016-02-26'
+uri: https://api.scryfall.com/cards/15a620da-5056-4582-8da5-2c955c3f4c0d
+scryfall_uri: https://scryfall.com/card/ddq/78/human?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/5/15a620da-5056-4582-8da5-2c955c3f4c0d.jpg?1593142549
+  normal: https://cards.scryfall.io/normal/front/1/5/15a620da-5056-4582-8da5-2c955c3f4c0d.jpg?1593142549
+  large: https://cards.scryfall.io/large/front/1/5/15a620da-5056-4582-8da5-2c955c3f4c0d.jpg?1593142549
+  png: https://cards.scryfall.io/png/front/1/5/15a620da-5056-4582-8da5-2c955c3f4c0d.png?1593142549
+  art_crop: https://cards.scryfall.io/art_crop/front/1/5/15a620da-5056-4582-8da5-2c955c3f4c0d.jpg?1593142549
+  border_crop: https://cards.scryfall.io/border_crop/front/1/5/15a620da-5056-4582-8da5-2c955c3f4c0d.jpg?1593142549
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Human
+oracle_text: ''
+power: '1'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: 807a570a-b5eb-420d-9fa5-6e5364025510
+  component: combo_piece
+  name: Inquisitive Puppet
+  type_line: Artifact Creature — Construct
+  uri: https://api.scryfall.com/cards/807a570a-b5eb-420d-9fa5-6e5364025510
+- object: related_card
+  id: 548d7ff0-70b6-4221-b50b-3ee8547e1b0a
+  component: combo_piece
+  name: Rally for the Throne
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/548d7ff0-70b6-4221-b50b-3ee8547e1b0a
+- object: related_card
+  id: 3937d712-e944-4540-bc38-812096977059
+  component: combo_piece
+  name: Clarion Cathars
+  type_line: Creature — Human Knight
+  uri: https://api.scryfall.com/cards/3937d712-e944-4540-bc38-812096977059
+- object: related_card
+  id: 439d4cd6-afca-46d3-8850-898cb9212a26
+  component: combo_piece
+  name: Jerren, Corrupted Bishop // Ormendahl, the Corrupter
+  type_line: Legendary Creature — Human Cleric // Legendary Creature — Demon
+  uri: https://api.scryfall.com/cards/439d4cd6-afca-46d3-8850-898cb9212a26
+- object: related_card
+  id: 7ec27258-2298-49ae-ba17-d459b1e08b26
+  component: combo_piece
+  name: Wedding Announcement // Wedding Festivity
+  type_line: Enchantment // Enchantment
+  uri: https://api.scryfall.com/cards/7ec27258-2298-49ae-ba17-d459b1e08b26
+- object: related_card
+  id: 15a620da-5056-4582-8da5-2c955c3f4c0d
+  component: token
+  name: Human
+  type_line: Token Creature — Human
+  uri: https://api.scryfall.com/cards/15a620da-5056-4582-8da5-2c955c3f4c0d
+- object: related_card
+  id: 8dd4d771-366c-4d81-875d-7ba9f1f00320
+  component: combo_piece
+  name: Kharis & The Beholder
+  type_line: Legendary Creature — Dragon Eye Wizard
+  uri: https://api.scryfall.com/cards/8dd4d771-366c-4d81-875d-7ba9f1f00320
+- object: related_card
+  id: 3181e5a8-7805-431a-8ee0-b825e89ba2b0
+  component: combo_piece
+  name: Cemetery Protector
+  type_line: Creature — Human Soldier
+  uri: https://api.scryfall.com/cards/3181e5a8-7805-431a-8ee0-b825e89ba2b0
+- object: related_card
+  id: bdbfe895-f806-4490-9ae6-b39b28ea4e28
+  component: combo_piece
+  name: Worthy Knight
+  type_line: Creature — Human Knight
+  uri: https://api.scryfall.com/cards/bdbfe895-f806-4490-9ae6-b39b28ea4e28
+- object: related_card
+  id: dd95d377-a61e-4b62-a883-ed491c48da15
+  component: combo_piece
+  name: Adeline, Resplendent Cathar
+  type_line: Legendary Creature — Human Knight
+  uri: https://api.scryfall.com/cards/dd95d377-a61e-4b62-a883-ed491c48da15
+- object: related_card
+  id: 8e9721c2-ca45-452b-9694-16cc8651a35b
+  component: combo_piece
+  name: Cathar's Call
+  type_line: Enchantment — Aura
+  uri: https://api.scryfall.com/cards/8e9721c2-ca45-452b-9694-16cc8651a35b
+- object: related_card
+  id: 9597d9ea-d9b2-4009-8e7c-02caa3585bc5
+  component: combo_piece
+  name: Return from the Wilds
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/9597d9ea-d9b2-4009-8e7c-02caa3585bc5
+- object: related_card
+  id: '08ef4383-11e7-4426-a04a-058570f46e47'
+  component: combo_piece
+  name: Commander's Authority
+  type_line: Enchantment — Aura
+  uri: https://api.scryfall.com/cards/08ef4383-11e7-4426-a04a-058570f46e47
+- object: related_card
+  id: 4564f7b4-4fa3-40a3-88e8-2f1cfd15461c
+  component: combo_piece
+  name: Hero of Precinct One
+  type_line: Creature — Human Warrior
+  uri: https://api.scryfall.com/cards/4564f7b4-4fa3-40a3-88e8-2f1cfd15461c
+- object: related_card
+  id: a9601594-1efb-4cf7-ad94-76fe6ebfe8ad
+  component: combo_piece
+  name: Sunset Revelry
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/a9601594-1efb-4cf7-ad94-76fe6ebfe8ad
+- object: related_card
+  id: bd7844a2-70a1-4195-b2b7-1653cb882c6a
+  component: combo_piece
+  name: Increasing Devotion
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/bd7844a2-70a1-4195-b2b7-1653cb882c6a
+- object: related_card
+  id: 4f80af9c-07a1-46f1-b869-146fda5922f4
+  component: combo_piece
+  name: Lovestruck Beast // Heart's Desire
+  type_line: Creature — Beast Noble // Sorcery — Adventure
+  uri: https://api.scryfall.com/cards/4f80af9c-07a1-46f1-b869-146fda5922f4
+- object: related_card
+  id: 11a8437f-a783-4d76-8af1-a347d48a1bad
+  component: combo_piece
+  name: Voice of the Provinces
+  type_line: Creature — Angel
+  uri: https://api.scryfall.com/cards/11a8437f-a783-4d76-8af1-a347d48a1bad
+- object: related_card
+  id: 61a38f24-1eb3-4914-be1f-0b5f6d4b09d5
+  component: combo_piece
+  name: Watchful Giant
+  type_line: Creature — Giant Soldier
+  uri: https://api.scryfall.com/cards/61a38f24-1eb3-4914-be1f-0b5f6d4b09d5
+- object: related_card
+  id: 8e629a31-2e06-4f95-9628-34670dcf68b9
+  component: combo_piece
+  name: Welcome to Sweettooth
+  type_line: Enchantment — Saga
+  uri: https://api.scryfall.com/cards/8e629a31-2e06-4f95-9628-34670dcf68b9
+- object: related_card
+  id: 73014a95-5251-4404-b3a3-037fb5ca3327
+  component: combo_piece
+  name: Stroke of Midnight
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/73014a95-5251-4404-b3a3-037fb5ca3327
+- object: related_card
+  id: 7d86b85b-5098-4741-a9e9-afb68e8f7d64
+  component: combo_piece
+  name: Oakhame Ranger // Bring Back
+  type_line: Creature — Elf Knight Ranger // Sorcery — Adventure
+  uri: https://api.scryfall.com/cards/7d86b85b-5098-4741-a9e9-afb68e8f7d64
+- object: related_card
+  id: 7d8f7a37-491f-4b96-8166-6c96eea7d7f4
+  component: combo_piece
+  name: Slaughter Specialist
+  type_line: Creature — Vampire Warrior
+  uri: https://api.scryfall.com/cards/7d8f7a37-491f-4b96-8166-6c96eea7d7f4
+- object: related_card
+  id: bfb8cc18-d5ac-47c3-bf6e-b3ac22aa303e
+  component: combo_piece
+  name: Devouring Sugarmaw // Have for Dinner
+  type_line: Creature — Horror // Instant — Adventure
+  uri: https://api.scryfall.com/cards/bfb8cc18-d5ac-47c3-bf6e-b3ac22aa303e
+- object: related_card
+  id: d403fbce-132a-41d2-b3ed-82420d14ed55
+  component: combo_piece
+  name: Join the Dance
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/d403fbce-132a-41d2-b3ed-82420d14ed55
+- object: related_card
+  id: 0e0fa5ab-c4d1-4b2d-ad62-feb651e4b11c
+  component: combo_piece
+  name: Thraben Doomsayer
+  type_line: Creature — Human Cleric
+  uri: https://api.scryfall.com/cards/0e0fa5ab-c4d1-4b2d-ad62-feb651e4b11c
+- object: related_card
+  id: d0c50047-013f-4a14-8cdd-08c6d5b89e8b
+  component: combo_piece
+  name: Dawnhart Mentor
+  type_line: Creature — Human Warlock
+  uri: https://api.scryfall.com/cards/d0c50047-013f-4a14-8cdd-08c6d5b89e8b
+- object: related_card
+  id: 21a2bac8-451f-4af8-a82d-aeae5e28a8be
+  component: combo_piece
+  name: Harmonious Archon
+  type_line: Creature — Archon
+  uri: https://api.scryfall.com/cards/21a2bac8-451f-4af8-a82d-aeae5e28a8be
+- object: related_card
+  id: 35b97bc8-f61d-4a3e-b6f0-361962fc2152
+  component: combo_piece
+  name: Visions of Glory
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/35b97bc8-f61d-4a3e-b6f0-361962fc2152
+- object: related_card
+  id: ea28b7a7-c261-4abb-a919-84cb0d2ed147
+  component: combo_piece
+  name: Castle Ardenvale
+  type_line: Land
+  uri: https://api.scryfall.com/cards/ea28b7a7-c261-4abb-a919-84cb0d2ed147
+- object: related_card
+  id: 76f66ee8-8289-4780-aaec-feabd8ea9e3d
+  component: combo_piece
+  name: Gather the Townsfolk
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/76f66ee8-8289-4780-aaec-feabd8ea9e3d
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 9f6e1af2-3913-47d6-aa6a-81f34ec7224c
+set: ddq
+set_name: 'Duel Decks: Blessed vs. Cursed'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/9f6e1af2-3913-47d6-aa6a-81f34ec7224c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addq&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddq?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/15a620da-5056-4582-8da5-2c955c3f4c0d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A30272edf-097c-4918-84d2-9fa6c42dbe0a&unique=prints
+collector_number: '78'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: John Stanko
+artist_ids:
+- b0f038a0-73b5-4806-918e-9cd11b5f92e1
+illustration_id: 6f39a2d3-4bdd-43fb-9e2b-90ab7ea0445a
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+prices:
+  usd: '0.14'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409654
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Human&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Human&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Human
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/113337?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Human&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Human&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

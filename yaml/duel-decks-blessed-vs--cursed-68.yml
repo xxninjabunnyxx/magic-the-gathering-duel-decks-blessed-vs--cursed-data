@@ -1,0 +1,116 @@
+---
+object: card
+id: f71d26ad-2d32-4202-8237-bc4612a53ea0
+oracle_id: 70de24d9-c585-4bf6-ac2c-c5b4b7aa298c
+multiverse_ids:
+- 409644
+tcgplayer_id: 113234
+cardmarket_id: 288391
+name: Diregraf Captain
+lang: en
+released_at: '2016-02-26'
+uri: https://api.scryfall.com/cards/f71d26ad-2d32-4202-8237-bc4612a53ea0
+scryfall_uri: https://scryfall.com/card/ddq/68/diregraf-captain?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/7/f71d26ad-2d32-4202-8237-bc4612a53ea0.jpg?1592763367
+  normal: https://cards.scryfall.io/normal/front/f/7/f71d26ad-2d32-4202-8237-bc4612a53ea0.jpg?1592763367
+  large: https://cards.scryfall.io/large/front/f/7/f71d26ad-2d32-4202-8237-bc4612a53ea0.jpg?1592763367
+  png: https://cards.scryfall.io/png/front/f/7/f71d26ad-2d32-4202-8237-bc4612a53ea0.png?1592763367
+  art_crop: https://cards.scryfall.io/art_crop/front/f/7/f71d26ad-2d32-4202-8237-bc4612a53ea0.jpg?1592763367
+  border_crop: https://cards.scryfall.io/border_crop/front/f/7/f71d26ad-2d32-4202-8237-bc4612a53ea0.jpg?1592763367
+mana_cost: "{1}{U}{B}"
+cmc: 3.0
+type_line: Creature — Zombie Soldier
+oracle_text: |-
+  Deathtouch
+  Other Zombie creatures you control get +1/+1.
+  Whenever another Zombie you control dies, target opponent loses 1 life.
+power: '2'
+toughness: '2'
+colors:
+- B
+- U
+color_identity:
+- B
+- U
+keywords:
+- Deathtouch
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 9f6e1af2-3913-47d6-aa6a-81f34ec7224c
+set: ddq
+set_name: 'Duel Decks: Blessed vs. Cursed'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/9f6e1af2-3913-47d6-aa6a-81f34ec7224c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addq&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddq?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f71d26ad-2d32-4202-8237-bc4612a53ea0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A70de24d9-c585-4bf6-ac2c-c5b4b7aa298c&unique=prints
+collector_number: '68'
+digital: false
+rarity: uncommon
+flavor_text: Though its mind has long since rotted away, it wields a sword with deadly
+  skill.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Slawomir Maniak
+artist_ids:
+- d887bc66-2779-416c-a1ff-d8720242063e
+illustration_id: 69c3f1ee-4eed-45e3-b0c7-825ce1a3c3e5
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1303
+penny_rank: 8095
+prices:
+  usd: '0.25'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409644
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Diregraf+Captain&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Diregraf+Captain&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Diregraf+Captain
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/113234?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Diregraf+Captain&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Diregraf+Captain&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

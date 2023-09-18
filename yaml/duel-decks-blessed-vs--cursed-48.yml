@@ -1,0 +1,110 @@
+---
+object: card
+id: 3d0142f7-7461-446a-b690-6882ccd93116
+oracle_id: c339982a-45d6-4c1a-aefc-c72427b40744
+multiverse_ids:
+- 409624
+tcgplayer_id: 113313
+cardmarket_id: 288584
+name: Screeching Skaab
+lang: en
+released_at: '2016-02-26'
+uri: https://api.scryfall.com/cards/3d0142f7-7461-446a-b690-6882ccd93116
+scryfall_uri: https://scryfall.com/card/ddq/48/screeching-skaab?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/d/3d0142f7-7461-446a-b690-6882ccd93116.jpg?1592763098
+  normal: https://cards.scryfall.io/normal/front/3/d/3d0142f7-7461-446a-b690-6882ccd93116.jpg?1592763098
+  large: https://cards.scryfall.io/large/front/3/d/3d0142f7-7461-446a-b690-6882ccd93116.jpg?1592763098
+  png: https://cards.scryfall.io/png/front/3/d/3d0142f7-7461-446a-b690-6882ccd93116.png?1592763098
+  art_crop: https://cards.scryfall.io/art_crop/front/3/d/3d0142f7-7461-446a-b690-6882ccd93116.jpg?1592763098
+  border_crop: https://cards.scryfall.io/border_crop/front/3/d/3d0142f7-7461-446a-b690-6882ccd93116.jpg?1592763098
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Creature — Zombie
+oracle_text: When Screeching Skaab enters the battlefield, mill two cards.
+power: '2'
+toughness: '1'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Mill
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 9f6e1af2-3913-47d6-aa6a-81f34ec7224c
+set: ddq
+set_name: 'Duel Decks: Blessed vs. Cursed'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/9f6e1af2-3913-47d6-aa6a-81f34ec7224c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addq&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddq?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3d0142f7-7461-446a-b690-6882ccd93116/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac339982a-45d6-4c1a-aefc-c72427b40744&unique=prints
+collector_number: '48'
+digital: false
+rarity: common
+flavor_text: Its screeching is the sound of you losing your mind.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Clint Cearley
+artist_ids:
+- 03b75350-d5a0-4e3a-b3b4-8d4a5554385b
+illustration_id: 4c4d160f-1013-42ce-b959-9596c22aafb3
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 16799
+penny_rank: 9788
+prices:
+  usd: '0.10'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.08'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409624
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Screeching+Skaab&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Screeching+Skaab&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Screeching+Skaab
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/113313?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Screeching+Skaab&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Screeching+Skaab&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

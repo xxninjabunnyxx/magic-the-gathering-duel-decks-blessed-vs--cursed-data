@@ -1,0 +1,108 @@
+---
+object: card
+id: a7f9b8f0-f2b9-48ec-86c2-71d1419e396b
+oracle_id: 55fe5ec3-1c81-4e9d-9e4c-f68ce6d7c2de
+multiverse_ids:
+- 409604
+tcgplayer_id: 113207
+cardmarket_id: 288390
+name: Pore Over the Pages
+lang: en
+released_at: '2016-02-26'
+uri: https://api.scryfall.com/cards/a7f9b8f0-f2b9-48ec-86c2-71d1419e396b
+scryfall_uri: https://scryfall.com/card/ddq/28/pore-over-the-pages?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/7/a7f9b8f0-f2b9-48ec-86c2-71d1419e396b.jpg?1592762858
+  normal: https://cards.scryfall.io/normal/front/a/7/a7f9b8f0-f2b9-48ec-86c2-71d1419e396b.jpg?1592762858
+  large: https://cards.scryfall.io/large/front/a/7/a7f9b8f0-f2b9-48ec-86c2-71d1419e396b.jpg?1592762858
+  png: https://cards.scryfall.io/png/front/a/7/a7f9b8f0-f2b9-48ec-86c2-71d1419e396b.png?1592762858
+  art_crop: https://cards.scryfall.io/art_crop/front/a/7/a7f9b8f0-f2b9-48ec-86c2-71d1419e396b.jpg?1592762858
+  border_crop: https://cards.scryfall.io/border_crop/front/a/7/a7f9b8f0-f2b9-48ec-86c2-71d1419e396b.jpg?1592762858
+mana_cost: "{3}{U}{U}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: Draw three cards, untap up to two lands, then discard a card.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 9f6e1af2-3913-47d6-aa6a-81f34ec7224c
+set: ddq
+set_name: 'Duel Decks: Blessed vs. Cursed'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/9f6e1af2-3913-47d6-aa6a-81f34ec7224c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addq&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddq?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a7f9b8f0-f2b9-48ec-86c2-71d1419e396b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A55fe5ec3-1c81-4e9d-9e4c-f68ce6d7c2de&unique=prints
+collector_number: '28'
+digital: false
+rarity: uncommon
+flavor_text: '"''I''m certain that the fate of Markov Manor is connected to these
+  cryptoliths . . .'' This Tamiyo was on to something."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Magali Villeneuve
+artist_ids:
+- 9e6a55ae-be4d-4c23-a2a5-135737ffd879
+illustration_id: b64200cc-cdfb-4f8a-b601-bb7d671d5ee0
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 10627
+penny_rank: 2402
+prices:
+  usd: '0.13'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409604
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Pore+Over+the+Pages&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Pore+Over+the+Pages&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Pore+Over+the+Pages
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/113207?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pore+Over+the+Pages&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pore+Over+the+Pages&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

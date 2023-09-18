@@ -1,0 +1,123 @@
+---
+object: card
+id: bd7844a2-70a1-4195-b2b7-1653cb882c6a
+oracle_id: 7a5ff4d4-27b7-47d4-ba88-970c63c4e3fb
+multiverse_ids:
+- 409590
+tcgplayer_id: 113276
+cardmarket_id: 288574
+name: Increasing Devotion
+lang: en
+released_at: '2016-02-26'
+uri: https://api.scryfall.com/cards/bd7844a2-70a1-4195-b2b7-1653cb882c6a
+scryfall_uri: https://scryfall.com/card/ddq/14/increasing-devotion?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/d/bd7844a2-70a1-4195-b2b7-1653cb882c6a.jpg?1592762671
+  normal: https://cards.scryfall.io/normal/front/b/d/bd7844a2-70a1-4195-b2b7-1653cb882c6a.jpg?1592762671
+  large: https://cards.scryfall.io/large/front/b/d/bd7844a2-70a1-4195-b2b7-1653cb882c6a.jpg?1592762671
+  png: https://cards.scryfall.io/png/front/b/d/bd7844a2-70a1-4195-b2b7-1653cb882c6a.png?1592762671
+  art_crop: https://cards.scryfall.io/art_crop/front/b/d/bd7844a2-70a1-4195-b2b7-1653cb882c6a.jpg?1592762671
+  border_crop: https://cards.scryfall.io/border_crop/front/b/d/bd7844a2-70a1-4195-b2b7-1653cb882c6a.jpg?1592762671
+mana_cost: "{3}{W}{W}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: |-
+  Create five 1/1 white Human creature tokens. If this spell was cast from a graveyard, create ten of those tokens instead.
+  Flashback {7}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flashback
+all_parts:
+- object: related_card
+  id: 15a620da-5056-4582-8da5-2c955c3f4c0d
+  component: token
+  name: Human
+  type_line: Token Creature — Human
+  uri: https://api.scryfall.com/cards/15a620da-5056-4582-8da5-2c955c3f4c0d
+- object: related_card
+  id: bd7844a2-70a1-4195-b2b7-1653cb882c6a
+  component: combo_piece
+  name: Increasing Devotion
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/bd7844a2-70a1-4195-b2b7-1653cb882c6a
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 9f6e1af2-3913-47d6-aa6a-81f34ec7224c
+set: ddq
+set_name: 'Duel Decks: Blessed vs. Cursed'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/9f6e1af2-3913-47d6-aa6a-81f34ec7224c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addq&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddq?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bd7844a2-70a1-4195-b2b7-1653cb882c6a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a5ff4d4-27b7-47d4-ba88-970c63c4e3fb&unique=prints
+collector_number: '14'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daniel Ljunggren
+artist_ids:
+- 0fbd4798-76eb-46d5-a5d4-1e3a25870e34
+illustration_id: caa883cd-c721-4b7e-b53a-04048b8d9e95
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1864
+penny_rank: 9156
+prices:
+  usd: '0.24'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.35'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409590
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Increasing+Devotion&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Increasing+Devotion&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Increasing+Devotion
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/113276?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Increasing+Devotion&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Increasing+Devotion&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
